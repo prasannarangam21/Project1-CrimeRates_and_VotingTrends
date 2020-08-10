@@ -1,4 +1,5 @@
 Proposal:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In order to try and solve or at least mitigate crime in the US, we must first understand how it starts by asking the initial questions and setting the groundwork for further analyzation and exploration. 
     
      What influences crime? Is there a correlation between voting trends and crime rates? What other factors may be making an impact on crime? Does this translate to an individual state? 
